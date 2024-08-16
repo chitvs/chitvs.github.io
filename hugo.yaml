@@ -18,32 +18,29 @@ markup:
 
 menu:
   main:
-    - name: About
-      pageRef: /about
-      weight: 1
     - name: Blog
       pageRef: /blog
-      weight: 2
+      weight: 1
     - name: Projects
       url: /projects
-      weight: 3
+      weight: 2
     - name: Photography
       url: /photography
-      weight: 4
+      weight: 3
     - name: Bookshelf
       url: /bookshelf
-      weight: 5
+      weight: 4
     - name: Search
-      weight: 6
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 7
+      weight: 6
       url: "https://github.com/chitvs"
       params:
         icon: github
     - name: LinkedIn
-      weight: 8
+      weight: 7
       url: "https://linkedin.com/in/alessandro-chitarrini"
       params:
         icon: linkedin
