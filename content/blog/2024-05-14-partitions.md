@@ -1,6 +1,14 @@
 ---
-title: Mastering Partition Resizing in a Dual Boot Setup
+title: Mastering partition resizing on Linux dual booting Windows
 layout: default
+tags:
+  - Ubuntu
+  - Partitioning
+  - Dual Boot
+  - Windows 11
+  - GParted
+description: "Learn how to resize partitions on Ubuntu 22.04.4 LTS in a dual-boot setup with Windows 11."
+date: 2024-05-14
 ---
 
 ## Introduction

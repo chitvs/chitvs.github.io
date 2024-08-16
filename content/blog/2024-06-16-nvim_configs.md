@@ -1,7 +1,14 @@
 ---
-
 layout: default
-title: Managing Multiple Neovim Configurations, A Guide for LaTeX and NVChad Users
+title: Managing multiple Neovim configurations, LaTeX compilation and NVChad
+tags:
+  - Neovim
+  - Configuration
+  - LaTeX
+  - NVChad
+  - Vim
+description: "Learn how to switch between different Neovim configurations for LaTeX and general coding using NVChad."
+date: 2024-06-16
 ---
 
 ## Introduction
