@@ -1,6 +1,7 @@
 ---
 title: About
 type: about
+toc: false
 ---
 
 Welcome to my personal website! I’m Alessandro Chitarrini, currently a Computer Engineering student at Sapienza Università di Roma. From an early age, I’ve been captivated by the elegance of mathematics and the boundless possibilities of computer science. This passion has driven me to delve deeply into the realms of programming, problem-solving, and technological innovation.

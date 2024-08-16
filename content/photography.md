@@ -1,6 +1,7 @@
 ---
 title: Photography
 layout: default
+toc: false
 ---
 
 Welcome to my photography gallery! I’m thrilled to share a curated selection of my favorite photos with you. Each image is a testament to my deep passion for photography, capturing the world through my lens with an unwavering commitment to detail and creativity.

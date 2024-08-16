@@ -1,6 +1,4 @@
 ---
 layout: blog
-title: blog
+title: Blog
 ---
-
-blog index page

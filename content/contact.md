@@ -1,6 +1,7 @@
 ---
 title: Contact Me
 layout: default
+toc: false
 ---
 If you have any questions or just want to say hello, feel free to reach out to me using the contact form below.
 

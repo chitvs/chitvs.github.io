@@ -1,6 +1,7 @@
 ---
 title: Bookshelf
 layout: default
+toc: false
 ---
 
 Welcome to my bookshelf! Here you can find a list of books I have read, am currently reading, and those I plan to read.
