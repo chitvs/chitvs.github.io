@@ -92,4 +92,4 @@ Welcome to my bookshelf! Here you can find a list of books I have read, am curre
   **Theme**: Computer Science  
   **Description**: A seminal work in computer science that covers a wide range of algorithms and programming techniques.
 
-**Note**: This bookshelf is a work in progress and will continue to be updated with new entries and reviews. Stay tuned for more additions and updates! Follow me on Goodreads for the latest updates on what I'm reading and more.
+**Note**: This bookshelf is a work in progress and will continue to be updated with new entries and reviews. Stay tuned for more additions and updates! Follow me on [Goodreads](https://www.goodreads.com/user/show/157166525-alessandro) for the latest updates on what I'm reading and more.
