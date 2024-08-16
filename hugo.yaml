@@ -33,20 +33,17 @@ menu:
     - name: Bookshelf
       url: /bookshelf
       weight: 5
-    - name: Contact
-      url: /contact
-      weight: 6
     - name: Search
-      weight: 7
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 8
+      weight: 7
       url: "https://github.com/chitvs"
       params:
         icon: github
     - name: LinkedIn
-      weight: 9
+      weight: 8
       url: "https://linkedin.com/alessandro-chitarrini"
       params:
         icon: linkedin
