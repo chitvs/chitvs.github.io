@@ -3,4 +3,5 @@ title: Alessandro Chitarrini
 toc: false
 ---
 
-This is the landing page.
+**Computer Engineering** @ Sapienza Università di Roma. Interested in software development, mathematics, chess, art and photography.
+
