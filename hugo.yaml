@@ -24,23 +24,32 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Projects
+      url: /projects
       weight: 3
-    - name: Search
+    - name: Photography
+      url: /photography
       weight: 4
+    - name: Bookshelf
+      url: /bookshelf
+      weight: 5
+    - name: Contact
+      url: /contact
+      weight: 6
+    - name: Search
+      weight: 7
       params:
         type: search
     - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      weight: 8
+      url: "https://github.com/chitvs"
       params:
         icon: github
-    - name: Twitter
+    - name: LinkedIn
       weight: 6
-      url: "https://twitter.com/"
+      url: "https://linkedin.com/alessandro-chitarrini"
       params:
-        icon: x-twitter
+        icon: linkedin
 
 params:
   navbar:
