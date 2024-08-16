@@ -44,7 +44,7 @@ menu:
         icon: github
     - name: LinkedIn
       weight: 8
-      url: "https://linkedin.com/alessandro-chitarrini"
+      url: "https://linkedin.com/in/alessandro-chitarrini"
       params:
         icon: linkedin
 
