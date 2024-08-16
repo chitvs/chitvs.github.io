@@ -1,5 +1,5 @@
 ---
-title: Mastering Partition Resizing in a Dual Boot Setup: Ubuntu and Windows 11
+title: Mastering Partition Resizing in a Dual Boot Setup
 layout: default
 ---
 

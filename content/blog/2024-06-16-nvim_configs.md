@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Managing Multiple Neovim Configurations: A Guide for LaTeX and NVChad Users
+title: Managing Multiple Neovim Configurations, A Guide for LaTeX and NVChad Users
 ---
 
 ## Introduction
