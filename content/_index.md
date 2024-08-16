@@ -16,4 +16,4 @@ Beyond the technical aspects, I have a profound interest in chess. The strategic
 
 My relentless thirst for knowledge and commitment to pushing boundaries motivate me to seek out opportunities where I can contribute to and shape the ever-evolving landscape of the tech industry. I am excited about the potential to work on cutting-edge projects, collaborate with like-minded professionals, and make a tangible impact through my work. As I navigate this journey, I remain dedicated to learning, growing, and advancing in the field of technology.
 
-Thank you for visiting my website. I look forward to connecting with others who share my enthusiasm for technology and innovation. You can see more on my socials below!
+Thank you for visiting my website. I look forward to connecting with others who share my enthusiasm for technology and innovation.
