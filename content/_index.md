@@ -16,6 +16,4 @@ Thank you for visiting my website. I look forward to connecting with others who 
 
 ### Contact Me
 
-Have a question about my work? Want to collaborate? Feel free to reach out!
-
-You can email me at [alessandro.chitarrini@outlook.com](mailto:alessandro.chitarrini@outlook.com).
+Have a question about my work? Want to collaborate? Feel free to reach out! You can email me at [alessandro.chitarrini@outlook.com](mailto:alessandro.chitarrini@outlook.com).
