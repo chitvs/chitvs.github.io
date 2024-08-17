@@ -1,11 +1,7 @@
 ---
 toc: false
+title: "Alessandro Chitarrini"
 ---
-
-![Alessandro Chitarrini](profile.png)
-
-**Computer Engineering** BSc student @ Sapienza Università di Roma. Interested in software development, mathematics, chess, art and photography.
-
 ## About Me
 
 Welcome to my personal website! I’m Alessandro Chitarrini, currently a Computer Engineering student at Sapienza Università di Roma. From an early age, I’ve been captivated by the elegance of mathematics and the boundless possibilities of computer science. This passion has driven me to delve deeply into the realms of programming, problem-solving, and technological innovation.
