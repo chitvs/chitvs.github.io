@@ -2,6 +2,20 @@
 toc: false
 title: "Alessandro Chitarrini"
 ---
+
+<div style="text-align: center; margin-top: 1em;">
+{{< hextra/hero-badge link="https://www.linkedin.com/in/alessandro-chitarrini" >}}
+  {{< icon name="linkedin" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+{{< hextra/hero-badge link="https://www.github.com/chitvs" >}}
+  {{< icon name="github" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+{{< hextra/hero-badge link="mailto:alessandro.chitarrini@outlook.com">}}
+  {{< icon name="mail" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+</div>  
+
+
 ## About Me
 
 Welcome to my personal website! I’m Alessandro Chitarrini, currently a Computer Engineering student at Sapienza Università di Roma. From an early age, I’ve been captivated by the elegance of mathematics and the boundless possibilities of computer science. This passion has driven me to delve deeply into the realms of programming, problem-solving, and technological innovation.
@@ -18,4 +32,4 @@ Thank you for visiting my website. I look forward to connecting with others who 
 
 Have a question about my work? Want to collaborate? Feel free to reach out! 
 
-You can email me at [alessandro.chitarrini@outlook.com](mailto:alessandro.chitarrini@outlook.com).
+Email me at [alessandro.chitarrini@outlook.com](mailto:alessandro.chitarrini@outlook.com).

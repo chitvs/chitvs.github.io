@@ -9,6 +9,7 @@ tags:
   - Vim
 description: "Learn how to switch between different Neovim configurations for LaTeX and general coding using NVChad."
 date: 2024-06-16
+displaysidebar: true
 ---
 
 ## Introduction

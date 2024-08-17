@@ -9,6 +9,7 @@ tags:
   - GParted
 description: "Learn how to resize partitions on Ubuntu 22.04.4 LTS in a dual-boot setup with Windows 11."
 date: 2024-05-14
+displaysidebar: true
 ---
 
 ## Introduction

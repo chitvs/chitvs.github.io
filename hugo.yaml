@@ -16,6 +16,8 @@ markup:
   highlight:
     noClasses: false
 
+enableInlineShortcodes: true
+
 menu:
   main:
     - name: Blog
@@ -53,3 +55,8 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: false
+  social:
+    github: "https://github.com/chitvs"
+    linkedin: "https://linkedin.com/in/alessandro-chitarrini"
+    # Add more social links here
+
