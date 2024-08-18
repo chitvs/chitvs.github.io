@@ -3,6 +3,12 @@ title: Bookshelf
 layout: default
 toc: false
 ---
+<div style="text-align: center; margin-top: 1em;">
+{{< hextra/hero-badge link="https://www.goodreads.com/user/show/157166525-alessandro">}}
+  <span>Goodreads</span>
+  {{< icon name="goodreads" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+</div>  
 
 Welcome to my bookshelf! Here you can find a list of books I have read, am currently reading, and those I plan to read.
 
