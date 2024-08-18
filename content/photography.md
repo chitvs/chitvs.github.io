@@ -6,7 +6,7 @@ layout: default
 <div style="text-align: center; margin-top: 1em;">
 {{< hextra/hero-badge link="https://unsplash.com/@chitvs">}}
   <span>Unsplash</span>
-  {{< icon name="unsplash   " attributes="height=14" >}}
+  {{< icon name="unsplash" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 </div>  
 
