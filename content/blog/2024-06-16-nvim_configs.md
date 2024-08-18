@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Managing multiple Neovim configurations
+title: Managing two Neovim configurations
 tags:
   - Neovim
   - Configuration
