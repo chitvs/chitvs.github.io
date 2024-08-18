@@ -19,7 +19,7 @@ markup:
 
 enableInlineShortcodes: true
 
-googleAnalytics = "G-0Q7QY3JLL9"
+googleAnalytics: "G-0Q7QY3JLL9"
 
 menu:
   main:
