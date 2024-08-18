@@ -112,4 +112,4 @@ To run the solver on all possible Wordle solutions and evaluate its performance:
 
 ## Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+Contributions are welcome! Feel free to open an issue or submit a pull request on the Github repository.
