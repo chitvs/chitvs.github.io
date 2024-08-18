@@ -4,15 +4,13 @@ title: "Alessandro Chitarrini"
 ---
 
 <div style="text-align: center; margin-top: 1em;">
-{{< hextra/hero-badge link="https://www.linkedin.com/in/alessandro-chitarrini" >}}
-  {{< icon name="linkedin" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
-{{< hextra/hero-badge link="https://www.github.com/chitvs" >}}
-  {{< icon name="github" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
-{{< hextra/hero-badge link="mailto:alessandro.chitarrini@outlook.com">}}
-  {{< icon name="mail" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
+  <a href="https://github.com/chitvs" style="color: gray; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Github</a>
+  <a href="https://www.linkedin.com/in/alessandro-chitarrini/" style="color: gray; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">LinkedIn</a>
+  <a href="https://www.quora.com/profile/Alessandro-Chitarrini" style="color: gray; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Quora</a>
+  <a href="https://www.goodreads.com/user/show/157166525-alessandro" style="color: gray; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Goodreads</a>
+  <a href="https://unsplash.com/@chitvs" style="color: gray; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Unsplash</a>
+  <a href="index.xml" style="color: gray; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">RSS</a>
+  <a href="mailto:alessandro.chitarrini@outlook.com" style="color: gray; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">@</a>
 </div>  
 
 
