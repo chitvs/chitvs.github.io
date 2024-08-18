@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Managing multiple Neovim configurations, LaTeX compilation and NVChad
+title: Managing multiple Neovim configurations
 tags:
   - Neovim
   - Configuration

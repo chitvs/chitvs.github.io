@@ -1,5 +1,5 @@
 ---
-title: Mastering partition resizing on Linux dual booting Windows
+title: Mastering partition resizing on Linux
 layout: default
 tags:
   - Ubuntu
