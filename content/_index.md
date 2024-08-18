@@ -30,4 +30,6 @@ Thank you for visiting my website. I look forward to connecting with others who 
 
 Have a question about my work? Want to collaborate? Feel free to reach out! 
 
-Email me at [alessandro.chitarrini@outlook.com](mailto:alessandro.chitarrini@outlook.com).
+<p>
+  Email me at <a href="mailto:alessandro.chitarrini@outlook.com" style="color: gray; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">alessandro.chitarrini@outlook.com</a>.
+</p>
