@@ -16,7 +16,7 @@ displaysidebar: true
 
 If you're using Neovim (nvim) for different types of tasks, such as LaTeX compilation and general coding with NVChad, you might want to switch between configurations to optimize your setup for each use case. This guide explains how to manage and switch between these configurations by placing the appropriate configuration files in the `.config/nvim` directory.
 
-### Managing Neovim Configurations
+## Managing Neovim Configurations
 
 Neovim uses the `.config/nvim` directory to store its configuration files. To switch between different configurations, you need to move or replace the configuration files in this directory based on your needs. Here’s how you can do it:
 
@@ -75,7 +75,7 @@ Neovim uses the `.config/nvim` directory to store its configuration files. To sw
 
    Verify that the configuration changes have taken effect by checking the behavior and plugins.
 
-### Conclusion
+## Conclusion
 
 Switching Neovim configurations is a straightforward process that involves managing configuration files within the `.config/nvim` directory. By backing up existing configurations and swapping in the desired files, you can easily tailor Neovim to your specific needs for LaTeX or general coding with NVChad.
 
