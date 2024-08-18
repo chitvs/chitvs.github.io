@@ -14,4 +14,6 @@ layout: default
 
 <p> I’m dedicated to continuously refining my craft and expanding my portfolio on Unsplash. Check back often to discover new photos and witness my evolving journey as a photographer. Enjoy exploring my work!</p>
 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+<div class="gallery-container" style="margin-top: 1em">
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true randomize=true >}}
+</div>
