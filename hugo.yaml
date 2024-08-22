@@ -63,3 +63,5 @@ params:
     linkedin: "https://linkedin.com/in/alessandro-chitarrini"
     # Add more social links here
 
+timeout = 60000 # This is required for larger galleries to be build (60 sec)
+
