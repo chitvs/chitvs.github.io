@@ -74,14 +74,14 @@ Welcome to my bookshelf! Here you can find a list of books I have read, am curre
   **Theme**: Business  
   **Description**: Chronicles the rise of Amazon and its founder, Jeff Bezos, revealing the secrets behind its success.
 
-- **Zero: The Biography of a Dangerous Idea**
+- **Zero: The Biography of a Dangerous Idea**                      
   **Author**: Charles Seife  
-  **Theme**: Mathematics
+  **Theme**: Mathematics  
   **Description**: A history of the concept of zero, exploring its mathematical and philosophical impact on the world.
 
-- **The Evolution of Physics**
-  **Authors**: Albert Einstein and Leopold Infeld
-  **Theme**: Science
+- **The Evolution of Physics**                                                  
+  **Author**: Albert Einstein and Leopold Infeld                                                  
+  **Theme**: Science                                                  
   **Description**: A survey of the development of ideas in physics, written by one of the greatest physicists of all time, Albert Einstein, with Leopold Infeld.
 
 ## Currently Reading
