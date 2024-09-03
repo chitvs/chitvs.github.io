@@ -6,7 +6,7 @@ title: "Alessandro Chitarrini"
 <div style="text-align: center; margin-top: 1em;">
   <a href="https://github.com/chitvs" style="color: gray; text-decoration: none; font-size: 0.9em;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Github</a>
   <a href="https://www.linkedin.com/in/alessandro-chitarrini/" style="color: gray; text-decoration: none; font-size: 0.9em;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">LinkedIn</a>
-  <a href="https://www.goodreads.com/user/show/157166525-alessandro" style="color: gray; text-decoration: none; font-size: 0.9em;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Goodreads</a>
+  <a href="https://www.goodreads.com/alessandro-chitarrini" style="color: gray; text-decoration: none; font-size: 0.9em;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Goodreads</a>
   <a href="https://unsplash.com/@chitvs" style="color: gray; text-decoration: none; font-size: 0.9em;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Unsplash</a>
   <a href="index.xml" style="color: gray; text-decoration: none; font-size: 0.9em;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">RSS</a>
   <a href="mailto:alessandro.chitarrini@outlook.com" style="color: gray; text-decoration: none; font-size: 0.9em;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">@</a>
