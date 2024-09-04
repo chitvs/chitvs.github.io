@@ -1,9 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ .Site.Title }}</title>
-    <link>{{ .Permalink }}</link>
+    <!-- Static title for the RSS feed -->
+    <title>Alessandro Chitarrini</title>
+    <link>{{ .Site.BaseURL }}</link>
     <description>
-      Recent content{{ if ne .Title .Site.Title }} in {{ .Title }}{{ end }} on {{ .Site.Title }}
+      Recent content on Alessandro Chitarrini
     </description>
     <generator>Hugo -- gohugo.io</generator>
     {{ with .Site.LanguageCode }}
