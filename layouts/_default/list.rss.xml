@@ -1,6 +1,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ .Site.Title }}</title>
+    <title>Alessandro Chitarrini</title>
     <link>{{ .Permalink }}</link>
     <description>
       Recent content{{ if ne .Title .Site.Title }} in {{ .Title }}{{ end }} on {{ .Site.Title }}
