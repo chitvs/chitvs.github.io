@@ -101,6 +101,11 @@ Welcome to my bookshelf! Here you can find a list of books I have read, am curre
   **Theme**: Mathematics  
   **Description**: A groundbreaking work exploring the connections between the works of Gödel, Escher, and Bach.
 
+- **Dopamine Nation: Finding Balance in the Age of Indulgence**
+  **Author**: Anna Lembke
+  **Theme**: Psychology
+  **Description**: A compelling exploration of the modern struggle with addiction.
+
 ## Want to Read
 
 - **The Art of Computer Programming**  
