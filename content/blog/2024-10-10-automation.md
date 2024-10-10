@@ -183,9 +183,9 @@ While GitHub Actions excels at running workflows within a development pipeline, 
     heroku config:set API_KEY=your_api_key ACCESS_TOKEN=your_access_token
     ```
 
-4. **Scale Your Bot**
+4. **Scale Your Bot**:
 
-: Use Heroku’s simple scaling features to add more dynos (processes) if your bot needs to handle more traffic or tasks.
+Use Heroku’s simple scaling features to add more dynos (processes) if your bot needs to handle more traffic or tasks.
 
 5. **Monitor Logs**: View real-time logs to troubleshoot and ensure your bot is functioning as expected:
 
