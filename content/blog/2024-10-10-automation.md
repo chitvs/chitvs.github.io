@@ -38,7 +38,7 @@ Imagine this: you spend hours every week manually posting content to social medi
 
 Whether you’re looking to automate personal tasks, enhance a business workflow, or streamline operations in a development team, Python’s flexibility makes it an ideal tool. And by combining Python with cloud services, you can turn any automation idea into a reliable, scalable process that runs continuously without manual intervention.
 
-## Python: The Heart of Your Automation Workflow
+## Why Phyton?
 
 Python is one of the most popular languages for automation, offering a wide range of libraries that make interaction with APIs, databases, and filesystems simple. With Python, you can automate practically anything, from sending automated emails, managing files, to building full-blown bots for social media.
 
@@ -91,7 +91,7 @@ if __name__ == "__main__":
 
 This script can be enhanced to include error handling, advanced scheduling, and other features like moving files after posting.
 
-## Cloud Hosting: Taking Automation to the Next Level
+## Cloud Hosting: Empowering Automation
 
 Running automation scripts on your local machine can be limiting. You need to keep your computer running, and if something fails, it may go unnoticed. Cloud services like **GitHub Actions**, **Heroku**, and **AWS Lambda** eliminate these issues by providing always-on environments where your scripts can run on a schedule or trigger based on events.
 
