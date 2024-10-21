@@ -26,26 +26,23 @@ menu:
     - name: Blog
       pageRef: /blog
       weight: 1
-    - name: Projects
-      url: /projects
-      weight: 2
     - name: Photography
       url: /photography
-      weight: 3
+      weight: 2
     - name: Bookshelf
       url: /bookshelf
-      weight: 4
+      weight: 3
     - name: Search
-      weight: 5
+      weight: 4
       params:
         type: search
     - name: GitHub
-      weight: 6
+      weight: 5
       url: "https://github.com/chitvs"
       params:
         icon: github
     - name: LinkedIn
-      weight: 7
+      weight: 6
       url: "https://linkedin.com/in/alessandro-chitarrini"
       params:
         icon: linkedin
