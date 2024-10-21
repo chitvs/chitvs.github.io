@@ -10,7 +10,7 @@ tags:
   - Cloud Hosting
 description: "Master the art of automation with Python bots and deploy them using cloud services like GitHub Actions, Heroku, and more. Unlock the power of cloud computing to automate tasks 24/7."
 date: 2024-09-15
-displaysidebar: true
+displaysidebar: false
 ---
 
 ## Introduction

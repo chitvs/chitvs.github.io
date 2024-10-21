@@ -10,7 +10,7 @@ tags:
   - Software Development
 description: "Discover the importance of open-source software, how tools like Git and platforms like GitHub enable collaboration, and why Linux has become the foundation of open-source development."
 date: 2024-10-20
-displaysidebar: true
+displaysidebar: false
 ---
 
 ## Introduction
